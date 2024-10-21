@@ -1,6 +1,6 @@
 # book_genai
 
-## Steps of setup and execute an application.
+## Steps for setup and execution of the application.
 
 1. Clone git repository
 2. Create a virtual environment
