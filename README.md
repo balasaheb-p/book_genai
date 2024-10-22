@@ -12,3 +12,9 @@
 8. To run test cases run this command in terminal: "pytest"
 
 Note: All the above mentioned steps are for the Windows operating system.
+
+
+## Open Swagger UI and check endpoints
+1. "/docs" using this endpoint access the Swagger UI documentation.
+2. use token endpoint to generate bearer token to authenticate the endpoint using authorization option available on swagger ui
+3. to generate bearer token use these creds: "username": "testuser", "password": "secretpassword"
