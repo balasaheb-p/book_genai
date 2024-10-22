@@ -12,3 +12,7 @@ class ReviewCreate(BaseModel):
     review_text: str
     rating: int
 
+class Token(BaseModel):
+    access_token: str
+    token_type: str
+
